@@ -133,9 +133,9 @@ body {
 
 <?php
 
-$host = 'localhost';
-$username = 'root';
-$password = '';
+$host = 'smrita.mysql.database.azure.com';
+$username = 'smrita@smrita';
+$password = 'Sm9803013681';
 $db_name = 'dacc';
 
 //Establishes the connection
